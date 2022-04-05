@@ -2,7 +2,7 @@ import argparse
 import traceback
 import time
 import copy
-wandblog = True
+wandblog = False
 import wandb
 
 import numpy as np
@@ -104,13 +104,13 @@ if __name__ == "__main__":
                         help="In embedding how node aggregate from its neighor")
     parser.add_argument("--num_heads", type=int, default=8,
                         help="Number of heads for multihead attention mechanism")
-    parser.add_argument("--fast_mode", action="store_true", default=False,
+    parser.add_argument("--fast_mode", action="store_true", default=True,
                         help="Fast Mode uses batch temporal sampling, history within same batch cannot be obtained")
     parser.add_argument("--simple_mode", action="store_true", default=False,
                         help="Simple Mode directly delete the temporal edges from the original static graph")
     parser.add_argument("--num_negative_samples", type=int, default=1,
                         help="number of negative samplers per positive samples")
-    parser.add_argument("--dataset", type=str, default="wikipedia",
+    parser.add_argument("--dataset", type=str, default="scholar",
                         help="dataset selection wikipedia/reddit")
     parser.add_argument("--k_hop", type=int, default=1,
                         help="sampling k-hop neighborhood")
@@ -310,9 +310,5 @@ if __name__ == "__main__":
         error_content = "Training Interreputed!"
         f.writelines(error_content)
         f.close()
-    torch.save({
-        'epoch': 99,
-        'model_state_dict': model.state_dict(),
-        'optimizer_state_dict': optimizer.state_dict()
-    }, "./checkpoint/model.pt")
+    torch.save(model, "./checkpoint/model_tgn.pt")
     print("========Training is Done========")
