@@ -1,0 +1,300 @@
+Epoch: 0; Training Loss: 239902.9892861843 | Validation AP: 0.749 AUC: 0.742
+Epoch: 0; Test AP: 0.796 AUC: 0.784
+Epoch: 0; Test New Node AP: 0.812 AUC: 0.792
+Epoch: 1; Training Loss: 231501.65606737137 | Validation AP: 0.818 AUC: 0.845
+Epoch: 1; Test AP: 0.852 AUC: 0.866
+Epoch: 1; Test New Node AP: 0.857 AUC: 0.856
+Epoch: 2; Training Loss: 225824.35744404793 | Validation AP: 0.829 AUC: 0.852
+Epoch: 2; Test AP: 0.835 AUC: 0.840
+Epoch: 2; Test New Node AP: 0.849 AUC: 0.851
+Epoch: 3; Training Loss: 233082.19188451767 | Validation AP: 0.585 AUC: 0.517
+Epoch: 3; Test AP: 0.559 AUC: 0.429
+Epoch: 3; Test New Node AP: 0.585 AUC: 0.451
+Epoch: 4; Training Loss: 233207.08565711975 | Validation AP: 0.679 AUC: 0.650
+Epoch: 4; Test AP: 0.627 AUC: 0.551
+Epoch: 4; Test New Node AP: 0.659 AUC: 0.575
+Epoch: 5; Training Loss: 231161.23725771904 | Validation AP: 0.739 AUC: 0.730
+Epoch: 5; Test AP: 0.704 AUC: 0.644
+Epoch: 5; Test New Node AP: 0.730 AUC: 0.664
+Epoch: 6; Training Loss: 234570.36780118942 | Validation AP: 0.718 AUC: 0.691
+Epoch: 6; Test AP: 0.688 AUC: 0.639
+Epoch: 6; Test New Node AP: 0.707 AUC: 0.645
+Epoch: 7; Training Loss: 233562.18473911285 | Validation AP: 0.733 AUC: 0.725
+Epoch: 7; Test AP: 0.722 AUC: 0.696
+Epoch: 7; Test New Node AP: 0.730 AUC: 0.685
+Epoch: 8; Training Loss: 229622.64152169228 | Validation AP: 0.767 AUC: 0.778
+Epoch: 8; Test AP: 0.747 AUC: 0.744
+Epoch: 8; Test New Node AP: 0.764 AUC: 0.753
+Epoch: 9; Training Loss: 229734.25825238228 | Validation AP: 0.752 AUC: 0.758
+Epoch: 9; Test AP: 0.754 AUC: 0.744
+Epoch: 9; Test New Node AP: 0.770 AUC: 0.753
+Epoch: 10; Training Loss: 237233.0582201481 | Validation AP: 0.702 AUC: 0.659
+Epoch: 10; Test AP: 0.693 AUC: 0.637
+Epoch: 10; Test New Node AP: 0.722 AUC: 0.663
+Epoch: 11; Training Loss: 237164.32796120644 | Validation AP: 0.654 AUC: 0.606
+Epoch: 11; Test AP: 0.663 AUC: 0.617
+Epoch: 11; Test New Node AP: 0.691 AUC: 0.642
+Epoch: 12; Training Loss: 230846.64734005928 | Validation AP: 0.720 AUC: 0.726
+Epoch: 12; Test AP: 0.754 AUC: 0.755
+Epoch: 12; Test New Node AP: 0.763 AUC: 0.747
+Epoch: 13; Training Loss: 231458.15016627312 | Validation AP: 0.728 AUC: 0.735
+Epoch: 13; Test AP: 0.728 AUC: 0.716
+Epoch: 13; Test New Node AP: 0.756 AUC: 0.734
+Epoch: 14; Training Loss: 230476.53468251228 | Validation AP: 0.726 AUC: 0.739
+Epoch: 14; Test AP: 0.725 AUC: 0.724
+Epoch: 14; Test New Node AP: 0.739 AUC: 0.721
+Epoch: 15; Training Loss: 227657.69891738892 | Validation AP: 0.690 AUC: 0.717
+Epoch: 15; Test AP: 0.701 AUC: 0.712
+Epoch: 15; Test New Node AP: 0.715 AUC: 0.711
+Epoch: 16; Training Loss: 225723.2497870922 | Validation AP: 0.719 AUC: 0.747
+Epoch: 16; Test AP: 0.738 AUC: 0.752
+Epoch: 16; Test New Node AP: 0.754 AUC: 0.756
+Epoch: 17; Training Loss: 226526.6581594944 | Validation AP: 0.732 AUC: 0.751
+Epoch: 17; Test AP: 0.727 AUC: 0.730
+Epoch: 17; Test New Node AP: 0.731 AUC: 0.709
+Epoch: 18; Training Loss: 239715.45254588127 | Validation AP: 0.698 AUC: 0.652
+Epoch: 18; Test AP: 0.760 AUC: 0.717
+Epoch: 18; Test New Node AP: 0.795 AUC: 0.761
+Epoch: 19; Training Loss: 237316.42584204674 | Validation AP: 0.753 AUC: 0.743
+Epoch: 19; Test AP: 0.768 AUC: 0.745
+Epoch: 19; Test New Node AP: 0.780 AUC: 0.750
+Epoch: 20; Training Loss: 232221.43236994743 | Validation AP: 0.667 AUC: 0.587
+Epoch: 20; Test AP: 0.610 AUC: 0.490
+Epoch: 20; Test New Node AP: 0.657 AUC: 0.559
+Epoch: 21; Training Loss: 234668.60311627388 | Validation AP: 0.641 AUC: 0.574
+Epoch: 21; Test AP: 0.695 AUC: 0.639
+Epoch: 21; Test New Node AP: 0.737 AUC: 0.690
+Epoch: 22; Training Loss: 231450.2901673317 | Validation AP: 0.671 AUC: 0.636
+Epoch: 22; Test AP: 0.698 AUC: 0.645
+Epoch: 22; Test New Node AP: 0.709 AUC: 0.640
+Epoch: 23; Training Loss: 229489.84743356705 | Validation AP: 0.676 AUC: 0.638
+Epoch: 23; Test AP: 0.729 AUC: 0.677
+Epoch: 23; Test New Node AP: 0.750 AUC: 0.687
+Epoch: 24; Training Loss: 228569.01260316372 | Validation AP: 0.677 AUC: 0.678
+Epoch: 24; Test AP: 0.699 AUC: 0.689
+Epoch: 24; Test New Node AP: 0.717 AUC: 0.693
+Epoch: 25; Training Loss: 226951.26736164093 | Validation AP: 0.738 AUC: 0.745
+Epoch: 25; Test AP: 0.753 AUC: 0.745
+Epoch: 25; Test New Node AP: 0.764 AUC: 0.742
+Epoch: 26; Training Loss: 232279.12892699242 | Validation AP: 0.758 AUC: 0.773
+Epoch: 26; Test AP: 0.775 AUC: 0.782
+Epoch: 26; Test New Node AP: 0.775 AUC: 0.766
+Epoch: 27; Training Loss: 229666.32787287235 | Validation AP: 0.794 AUC: 0.813
+Epoch: 27; Test AP: 0.795 AUC: 0.795
+Epoch: 27; Test New Node AP: 0.791 AUC: 0.781
+Epoch: 28; Training Loss: 230825.32984614372 | Validation AP: 0.764 AUC: 0.769
+Epoch: 28; Test AP: 0.724 AUC: 0.704
+Epoch: 28; Test New Node AP: 0.724 AUC: 0.684
+Epoch: 29; Training Loss: 231496.1468577385 | Validation AP: 0.649 AUC: 0.605
+Epoch: 29; Test AP: 0.645 AUC: 0.576
+Epoch: 29; Test New Node AP: 0.679 AUC: 0.606
+Epoch: 30; Training Loss: 230018.4155344963 | Validation AP: 0.688 AUC: 0.670
+Epoch: 30; Test AP: 0.656 AUC: 0.611
+Epoch: 30; Test New Node AP: 0.681 AUC: 0.634
+Epoch: 31; Training Loss: 222473.8836735487 | Validation AP: 0.734 AUC: 0.744
+Epoch: 31; Test AP: 0.697 AUC: 0.682
+Epoch: 31; Test New Node AP: 0.713 AUC: 0.688
+Epoch: 32; Training Loss: 228159.97707247734 | Validation AP: 0.752 AUC: 0.737
+Epoch: 32; Test AP: 0.712 AUC: 0.662
+Epoch: 32; Test New Node AP: 0.739 AUC: 0.690
+Epoch: 33; Training Loss: 228277.08098888397 | Validation AP: 0.680 AUC: 0.672
+Epoch: 33; Test AP: 0.697 AUC: 0.678
+Epoch: 33; Test New Node AP: 0.723 AUC: 0.704
+Epoch: 34; Training Loss: 223827.19869613647 | Validation AP: 0.755 AUC: 0.773
+Epoch: 34; Test AP: 0.787 AUC: 0.795
+Epoch: 34; Test New Node AP: 0.794 AUC: 0.786
+Epoch: 35; Training Loss: 219755.4299890995 | Validation AP: 0.808 AUC: 0.830
+Epoch: 35; Test AP: 0.830 AUC: 0.835
+Epoch: 35; Test New Node AP: 0.832 AUC: 0.822
+Epoch: 36; Training Loss: 218851.26029253006 | Validation AP: 0.781 AUC: 0.797
+Epoch: 36; Test AP: 0.800 AUC: 0.795
+Epoch: 36; Test New Node AP: 0.801 AUC: 0.779
+Epoch: 37; Training Loss: 215945.68446874619 | Validation AP: 0.793 AUC: 0.818
+Epoch: 37; Test AP: 0.811 AUC: 0.813
+Epoch: 37; Test New Node AP: 0.804 AUC: 0.787
+Epoch: 38; Training Loss: 218239.94284272194 | Validation AP: 0.754 AUC: 0.769
+Epoch: 38; Test AP: 0.772 AUC: 0.763
+Epoch: 38; Test New Node AP: 0.776 AUC: 0.746
+Epoch: 39; Training Loss: 231428.94406318665 | Validation AP: 0.729 AUC: 0.718
+Epoch: 39; Test AP: 0.755 AUC: 0.740
+Epoch: 39; Test New Node AP: 0.766 AUC: 0.737
+Epoch: 40; Training Loss: 228930.2606165409 | Validation AP: 0.739 AUC: 0.729
+Epoch: 40; Test AP: 0.757 AUC: 0.749
+Epoch: 40; Test New Node AP: 0.768 AUC: 0.742
+Epoch: 41; Training Loss: 223855.20160794258 | Validation AP: 0.725 AUC: 0.717
+Epoch: 41; Test AP: 0.702 AUC: 0.687
+Epoch: 41; Test New Node AP: 0.715 AUC: 0.676
+Epoch: 42; Training Loss: 222946.49088978767 | Validation AP: 0.689 AUC: 0.696
+Epoch: 42; Test AP: 0.664 AUC: 0.644
+Epoch: 42; Test New Node AP: 0.683 AUC: 0.643
+Epoch: 43; Training Loss: 221907.87305235863 | Validation AP: 0.716 AUC: 0.738
+Epoch: 43; Test AP: 0.704 AUC: 0.702
+Epoch: 43; Test New Node AP: 0.727 AUC: 0.713
+Epoch: 44; Training Loss: 221335.8690738678 | Validation AP: 0.758 AUC: 0.787
+Epoch: 44; Test AP: 0.762 AUC: 0.780
+Epoch: 44; Test New Node AP: 0.774 AUC: 0.776
+Epoch: 45; Training Loss: 219888.1995499134 | Validation AP: 0.779 AUC: 0.812
+Epoch: 45; Test AP: 0.788 AUC: 0.809
+Epoch: 45; Test New Node AP: 0.797 AUC: 0.803
+Epoch: 46; Training Loss: 225652.49928236008 | Validation AP: 0.755 AUC: 0.787
+Epoch: 46; Test AP: 0.762 AUC: 0.779
+Epoch: 46; Test New Node AP: 0.769 AUC: 0.763
+Epoch: 47; Training Loss: 229331.73909783363 | Validation AP: 0.783 AUC: 0.806
+Epoch: 47; Test AP: 0.786 AUC: 0.809
+Epoch: 47; Test New Node AP: 0.795 AUC: 0.798
+Epoch: 48; Training Loss: 222892.18935370445 | Validation AP: 0.834 AUC: 0.865
+Epoch: 48; Test AP: 0.877 AUC: 0.901
+Epoch: 48; Test New Node AP: 0.859 AUC: 0.865
+Epoch: 49; Training Loss: 219961.48946881294 | Validation AP: 0.831 AUC: 0.867
+Epoch: 49; Test AP: 0.833 AUC: 0.858
+Epoch: 49; Test New Node AP: 0.818 AUC: 0.819
+Epoch: 50; Training Loss: 215862.23919987679 | Validation AP: 0.858 AUC: 0.883
+Epoch: 50; Test AP: 0.870 AUC: 0.889
+Epoch: 50; Test New Node AP: 0.857 AUC: 0.854
+Epoch: 51; Training Loss: 212505.18347024918 | Validation AP: 0.891 AUC: 0.920
+Epoch: 51; Test AP: 0.950 AUC: 0.963
+Epoch: 51; Test New Node AP: 0.930 AUC: 0.921
+Epoch: 52; Training Loss: 211716.93760752678 | Validation AP: 0.889 AUC: 0.917
+Epoch: 52; Test AP: 0.945 AUC: 0.959
+Epoch: 52; Test New Node AP: 0.939 AUC: 0.942
+Epoch: 53; Training Loss: 198823.4404027462 | Validation AP: 0.909 AUC: 0.938
+Epoch: 53; Test AP: 0.966 AUC: 0.977
+Epoch: 53; Test New Node AP: 0.949 AUC: 0.951
+Epoch: 54; Training Loss: 199268.7563419342 | Validation AP: 0.904 AUC: 0.935
+Epoch: 54; Test AP: 0.959 AUC: 0.973
+Epoch: 54; Test New Node AP: 0.945 AUC: 0.941
+Epoch: 55; Training Loss: 198509.8434329033 | Validation AP: 0.900 AUC: 0.930
+Epoch: 55; Test AP: 0.950 AUC: 0.961
+Epoch: 55; Test New Node AP: 0.931 AUC: 0.928
+Epoch: 56; Training Loss: 204751.43949389458 | Validation AP: 0.887 AUC: 0.917
+Epoch: 56; Test AP: 0.928 AUC: 0.937
+Epoch: 56; Test New Node AP: 0.911 AUC: 0.903
+Epoch: 57; Training Loss: 197802.2440314293 | Validation AP: 0.888 AUC: 0.922
+Epoch: 57; Test AP: 0.931 AUC: 0.946
+Epoch: 57; Test New Node AP: 0.917 AUC: 0.918
+Epoch: 58; Training Loss: 207512.50761151314 | Validation AP: 0.872 AUC: 0.905
+Epoch: 58; Test AP: 0.903 AUC: 0.921
+Epoch: 58; Test New Node AP: 0.897 AUC: 0.901
+Epoch: 59; Training Loss: 212634.7632944584 | Validation AP: 0.837 AUC: 0.858
+Epoch: 59; Test AP: 0.809 AUC: 0.813
+Epoch: 59; Test New Node AP: 0.800 AUC: 0.790
+Epoch: 60; Training Loss: 210623.5024690628 | Validation AP: 0.831 AUC: 0.843
+Epoch: 60; Test AP: 0.780 AUC: 0.770
+Epoch: 60; Test New Node AP: 0.780 AUC: 0.756
+Epoch: 61; Training Loss: 204721.82642817497 | Validation AP: 0.830 AUC: 0.844
+Epoch: 61; Test AP: 0.760 AUC: 0.754
+Epoch: 61; Test New Node AP: 0.748 AUC: 0.720
+Epoch: 62; Training Loss: 203773.1282234192 | Validation AP: 0.814 AUC: 0.818
+Epoch: 62; Test AP: 0.741 AUC: 0.713
+Epoch: 62; Test New Node AP: 0.740 AUC: 0.696
+Epoch: 63; Training Loss: 203747.30266332626 | Validation AP: 0.796 AUC: 0.795
+Epoch: 63; Test AP: 0.723 AUC: 0.697
+Epoch: 63; Test New Node AP: 0.725 AUC: 0.675
+Epoch: 64; Training Loss: 205005.5856525898 | Validation AP: 0.822 AUC: 0.828
+Epoch: 64; Test AP: 0.763 AUC: 0.743
+Epoch: 64; Test New Node AP: 0.756 AUC: 0.724
+Epoch: 65; Training Loss: 194445.46138644218 | Validation AP: 0.876 AUC: 0.907
+Epoch: 65; Test AP: 0.880 AUC: 0.900
+Epoch: 65; Test New Node AP: 0.865 AUC: 0.879
+Epoch: 66; Training Loss: 192478.62722873688 | Validation AP: 0.868 AUC: 0.903
+Epoch: 66; Test AP: 0.884 AUC: 0.916
+Epoch: 66; Test New Node AP: 0.896 AUC: 0.923
+Epoch: 67; Training Loss: 202319.22019720078 | Validation AP: 0.871 AUC: 0.911
+Epoch: 67; Test AP: 0.878 AUC: 0.918
+Epoch: 67; Test New Node AP: 0.867 AUC: 0.892
+Epoch: 68; Training Loss: 203047.97689914703 | Validation AP: 0.851 AUC: 0.887
+Epoch: 68; Test AP: 0.845 AUC: 0.880
+Epoch: 68; Test New Node AP: 0.846 AUC: 0.871
+Epoch: 69; Training Loss: 213511.0012114048 | Validation AP: 0.850 AUC: 0.887
+Epoch: 69; Test AP: 0.861 AUC: 0.889
+Epoch: 69; Test New Node AP: 0.862 AUC: 0.875
+Epoch: 70; Training Loss: 204089.68745470047 | Validation AP: 0.860 AUC: 0.894
+Epoch: 70; Test AP: 0.875 AUC: 0.904
+Epoch: 70; Test New Node AP: 0.872 AUC: 0.884
+Epoch: 71; Training Loss: 197448.87150526047 | Validation AP: 0.887 AUC: 0.919
+Epoch: 71; Test AP: 0.922 AUC: 0.942
+Epoch: 71; Test New Node AP: 0.909 AUC: 0.917
+Epoch: 72; Training Loss: 205948.0676472187 | Validation AP: 0.856 AUC: 0.888
+Epoch: 72; Test AP: 0.907 AUC: 0.926
+Epoch: 72; Test New Node AP: 0.896 AUC: 0.899
+Epoch: 73; Training Loss: 197232.69109725952 | Validation AP: 0.870 AUC: 0.908
+Epoch: 73; Test AP: 0.900 AUC: 0.929
+Epoch: 73; Test New Node AP: 0.896 AUC: 0.916
+Epoch: 74; Training Loss: 195438.81263136864 | Validation AP: 0.887 AUC: 0.923
+Epoch: 74; Test AP: 0.940 AUC: 0.959
+Epoch: 74; Test New Node AP: 0.927 AUC: 0.930
+Epoch: 75; Training Loss: 198442.60182380676 | Validation AP: 0.899 AUC: 0.930
+Epoch: 75; Test AP: 0.952 AUC: 0.966
+Epoch: 75; Test New Node AP: 0.933 AUC: 0.933
+Epoch: 76; Training Loss: 198451.05446577072 | Validation AP: 0.880 AUC: 0.910
+Epoch: 76; Test AP: 0.911 AUC: 0.932
+Epoch: 76; Test New Node AP: 0.903 AUC: 0.914
+Epoch: 77; Training Loss: 217786.44692897797 | Validation AP: 0.809 AUC: 0.838
+Epoch: 77; Test AP: 0.829 AUC: 0.859
+Epoch: 77; Test New Node AP: 0.828 AUC: 0.844
+Epoch: 78; Training Loss: 201789.28725123405 | Validation AP: 0.880 AUC: 0.913
+Epoch: 78; Test AP: 0.932 AUC: 0.951
+Epoch: 78; Test New Node AP: 0.916 AUC: 0.926
+Epoch: 79; Training Loss: 201055.14629483223 | Validation AP: 0.875 AUC: 0.909
+Epoch: 79; Test AP: 0.919 AUC: 0.940
+Epoch: 79; Test New Node AP: 0.911 AUC: 0.925
+Epoch: 80; Training Loss: 195402.3652255535 | Validation AP: 0.898 AUC: 0.932
+Epoch: 80; Test AP: 0.950 AUC: 0.967
+Epoch: 80; Test New Node AP: 0.940 AUC: 0.946
+Epoch: 81; Training Loss: 195503.0558347702 | Validation AP: 0.900 AUC: 0.934
+Epoch: 81; Test AP: 0.962 AUC: 0.976
+Epoch: 81; Test New Node AP: 0.949 AUC: 0.951
+Epoch: 82; Training Loss: 195422.01989293098 | Validation AP: 0.894 AUC: 0.929
+Epoch: 82; Test AP: 0.950 AUC: 0.967
+Epoch: 82; Test New Node AP: 0.935 AUC: 0.942
+Epoch: 83; Training Loss: 188148.57982993126 | Validation AP: 0.914 AUC: 0.939
+Epoch: 83; Test AP: 0.966 AUC: 0.977
+Epoch: 83; Test New Node AP: 0.955 AUC: 0.962
+Epoch: 84; Training Loss: 189087.3442530632 | Validation AP: 0.905 AUC: 0.930
+Epoch: 84; Test AP: 0.954 AUC: 0.967
+Epoch: 84; Test New Node AP: 0.946 AUC: 0.955
+Epoch: 85; Training Loss: 183692.94565320015 | Validation AP: 0.909 AUC: 0.936
+Epoch: 85; Test AP: 0.962 AUC: 0.973
+Epoch: 85; Test New Node AP: 0.957 AUC: 0.966
+Epoch: 86; Training Loss: 183932.20846652985 | Validation AP: 0.901 AUC: 0.932
+Epoch: 86; Test AP: 0.954 AUC: 0.970
+Epoch: 86; Test New Node AP: 0.953 AUC: 0.965
+Epoch: 87; Training Loss: 187692.47646331787 | Validation AP: 0.906 AUC: 0.934
+Epoch: 87; Test AP: 0.954 AUC: 0.969
+Epoch: 87; Test New Node AP: 0.951 AUC: 0.963
+Epoch: 88; Training Loss: 190908.31470489502 | Validation AP: 0.904 AUC: 0.930
+Epoch: 88; Test AP: 0.955 AUC: 0.969
+Epoch: 88; Test New Node AP: 0.952 AUC: 0.965
+Epoch: 89; Training Loss: 200976.7665207386 | Validation AP: 0.887 AUC: 0.911
+Epoch: 89; Test AP: 0.922 AUC: 0.934
+Epoch: 89; Test New Node AP: 0.924 AUC: 0.933
+Epoch: 90; Training Loss: 191063.6403799057 | Validation AP: 0.904 AUC: 0.932
+Epoch: 90; Test AP: 0.953 AUC: 0.968
+Epoch: 90; Test New Node AP: 0.954 AUC: 0.967
+Epoch: 91; Training Loss: 189691.54660105705 | Validation AP: 0.908 AUC: 0.935
+Epoch: 91; Test AP: 0.953 AUC: 0.968
+Epoch: 91; Test New Node AP: 0.941 AUC: 0.951
+Epoch: 92; Training Loss: 188001.81369185448 | Validation AP: 0.906 AUC: 0.932
+Epoch: 92; Test AP: 0.950 AUC: 0.963
+Epoch: 92; Test New Node AP: 0.945 AUC: 0.952
+Epoch: 93; Training Loss: 186324.04472231865 | Validation AP: 0.903 AUC: 0.930
+Epoch: 93; Test AP: 0.940 AUC: 0.954
+Epoch: 93; Test New Node AP: 0.934 AUC: 0.943
+Epoch: 94; Training Loss: 188476.47058963776 | Validation AP: 0.883 AUC: 0.905
+Epoch: 94; Test AP: 0.905 AUC: 0.916
+Epoch: 94; Test New Node AP: 0.909 AUC: 0.917
+Epoch: 95; Training Loss: 191588.7840628624 | Validation AP: 0.820 AUC: 0.847
+Epoch: 95; Test AP: 0.780 AUC: 0.800
+Epoch: 95; Test New Node AP: 0.795 AUC: 0.817
+Epoch: 96; Training Loss: 187875.73449015617 | Validation AP: 0.900 AUC: 0.925
+Epoch: 96; Test AP: 0.894 AUC: 0.905
+Epoch: 96; Test New Node AP: 0.883 AUC: 0.892
+Epoch: 97; Training Loss: 190543.00976991653 | Validation AP: 0.865 AUC: 0.888
+Epoch: 97; Test AP: 0.839 AUC: 0.854
+Epoch: 97; Test New Node AP: 0.829 AUC: 0.843
+Epoch: 98; Training Loss: 194067.4538373947 | Validation AP: 0.888 AUC: 0.918
+Epoch: 98; Test AP: 0.935 AUC: 0.952
+Epoch: 98; Test New Node AP: 0.926 AUC: 0.936
+Epoch: 99; Training Loss: 202927.37585902214 | Validation AP: 0.883 AUC: 0.911
+Epoch: 99; Test AP: 0.923 AUC: 0.941
+Epoch: 99; Test New Node AP: 0.925 AUC: 0.936
